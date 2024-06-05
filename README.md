@@ -1,3 +1,5 @@
+# Test Security Headers
+https://securityheaders.com/?q=try.canopie.app&followRedirects=on
 
 # python_references
 list of web pages I found useful
